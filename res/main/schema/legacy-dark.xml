@@ -8,9 +8,9 @@
 
 	<!-- Fonts -->
 	<fonts>
-		<lsp-logo src="builtin://fonts/lsp-logo.ttf"/>
-		<lsp-icons src="builtin://fonts/lsp-icons.ttf"/>
-		<noto-sans-display src="builtin://fonts/NotoSansDisplay-Regular.ttf"/>
+		<lsp-logo src="builtin:/fonts/lsp-logo.ttf"/>
+		<lsp-icons src="builtin:/fonts/lsp-icons.ttf"/>
+		<noto-sans-display src="builtin:/fonts/NotoSansDisplay-Regular.ttf"/>
 	</fonts>
 
 	<!-- Constants -->
